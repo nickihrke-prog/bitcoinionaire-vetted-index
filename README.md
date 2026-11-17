@@ -9,7 +9,7 @@ A dated, source-checked register of whether named luxury brands accept Bitcoin a
 - **Corrections:** every correction is public at https://bitcoinionaire.com/correction-log/
 - **Licence:** CC BY 4.0 (see `LICENSE`). Later editions (v1.4 onward) and the monthly change feed are licensed separately: https://bitcoinionaire.com/license/
 - **Also on Hugging Face:** https://huggingface.co/datasets/bitcoinionaire/vetted-index
-- **DOI (v1.3, archived on Zenodo):** [10.5281/zenodo.24323598](https://doi.org/10.5281/zenodo.24323598)
+- **DOI (v1.3, Zenodo):** [10.5281/zenodo.22305818](https://doi.org/10.5281/zenodo.22305818)
 
 ## Why it exists
 Most published lists of "luxury brands that accept Bitcoin" carry no dates, no sources and no method. They are assembled from press coverage, and a claim that was true in 2022 sits unchallenged years later. Each row here records the source that was read, the date it was read, and a plain statement when acceptance could not be confirmed.
@@ -27,6 +27,6 @@ Most published lists of "luxury brands that accept Bitcoin" carry no dates, no s
 | `finding` | what the source said, or why it could not be confirmed |
 
 ## How to cite
-> Bitcoinionaire. *The Bitcoinionaire Vetted Index*, version 1.3, 22 August 2026. 101 entries, of which 25 verified against a first-party source. https://doi.org/10.5281/zenodo.24323598
+> Bitcoinionaire. *The Bitcoinionaire Vetted Index*, version 1.3, 22 August 2026. 101 entries, of which 25 verified against a first-party source. https://doi.org/10.5281/zenodo.22305818
 
 Figures move as entries are re-checked. Cite this version when the figures must stay fixed, and the live page when you want the current record.
